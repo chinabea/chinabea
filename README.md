@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm chinabea 🎀💗</h1>
+<h6>Hi 👋, I'm chinabea 🎀💗</h6>
